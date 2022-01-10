@@ -3,10 +3,10 @@ ___
 # netcat
 <img src="n1.jpg">
 <img src="n2.png">
----
+
 # wget
 <img src="n3.png">
----
+
 # telnet
 <img src="n4.png">
 <img src="n5.png">
