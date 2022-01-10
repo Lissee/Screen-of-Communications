@@ -2,6 +2,6 @@
 ___
 #netcat
 ---
-![ficbook](scr4.png)
+<img src="n1.jpg">
 ---
 ооло
