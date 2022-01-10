@@ -7,13 +7,13 @@ ___
 ---
 # wget
 <img src="n3.png">
-<img src="n4.png">
 ---
-#telnet
+# telnet
+<img src="n4.png">
 <img src="n5.png">
 ---
-#wget загрузка
+# wget загрузка
 <img src="n6.png">
 ---
-#curl запрос
+# curl запрос
 <img src="n7.jpg">
